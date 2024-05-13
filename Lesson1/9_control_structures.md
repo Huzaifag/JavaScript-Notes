@@ -19,6 +19,8 @@ let myage = 18;
 console.log("You are an adult:");
 }
 ```
+![image](https://github.com/Huzaifag/JavaScript-Notes/assets/92973781/d4af42ce-d5bd-486e-83f8-2450687389e6)
+
  js main jo bhi likho wo mainly ya true hoga ya false
 > **Falsy values** = 0 false undefine NULL NaN document.all
 
@@ -26,6 +28,9 @@ console.log("You are an adult:");
 
 ### 2) Loops
 if we to run same code over and over again with different value than we us loops.
+
+![image](https://github.com/Huzaifag/JavaScript-Notes/assets/92973781/e54d5a98-a51b-4f4f-b471-33db0d9d2b25)
+
 
 **1.For loop:-** loops through a block of code a number of times.
 
