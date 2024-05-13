@@ -11,3 +11,5 @@ var test = 5;
 
 // Output: undefined
 ```
+![image](https://github.com/Huzaifag/JavaScript-Notes/assets/92973781/772d7035-85e8-4461-bf6c-a2ed8492c541)
+
